@@ -29,7 +29,7 @@ This is a simple web app built using **Streamlit** and **YOLOv11 (Ultralytics)**
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/salmaamohamed/object-detection-app.git
+   git clone 
    cd object-detection-app
 
 2. **Install dependencies**:
@@ -39,8 +39,7 @@ This is a simple web app built using **Streamlit** and **YOLOv11 (Ultralytics)**
 # Usage
     streamlit run object_detection.py
 
-salmaa mohamed
+Nischal varshney 
 
-AI/ML & Computer Vision Engineer
 
-vsalma.mohamed24@gmail.com
+varshneynischal@gmail.com
